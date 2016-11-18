@@ -12,3 +12,5 @@ This fetcher uses <http://dx.doi.org/> to convert an DOI to a BibTeX entry.
 Enter the DOI in the search field and press <kdb>RETURN</kdb> or the **Fetch** button. 
 The results are displayed in the [import inspection window](ImportInspectionDialog).
 In case an error occurs, it is shown in a popup.
+
+**New in version 3.7**(from blog entry): "The workflow to create new entries by IDs has been optimized: Creating a new entry based on DOI/ISBN/Medline/ADS information is no longer accessible using the Web Search feature, but directly integrated in the “new entry” dialog"
